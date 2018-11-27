@@ -1,3 +1,7 @@
+The Community Corner is a blog series published on [Owain.Codes](https://owain.codes) on a regular basis. Usually on a Wednesday. 
+
+I am always looking for new people to highlight on the Community Corner so please, add contact details below and I will get in touch with them. I'm looking for anyone that uses Umbraco in any way. Whether they are content editors, UX designers, project managers or developers. Everyone is welcome! 
+
 
 | Name  |   Twitter       |   Alt. contact details    |  Nominated by |
 |-------|-----------------|---------------------------|---------------|
@@ -6,8 +10,7 @@
 |       |                 |                           |               |
 
 
-##
-#Members who have been enrolled in to the Community Corner
+## Members who have been enrolled in to the Community Corner
 
 |  Name       | Link to blog    |
 |---------------------|-----------------|
