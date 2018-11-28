@@ -7,7 +7,7 @@ I am always looking for new people to highlight on the Community Corner so pleas
 |-------|-----------------|---------------------------|---------------|
 |       | @Kosstamodjan   |                           | @dampeebe     |
 |       | @JokeVanHamme   |                           | @dampeebe     |
-|       |                 |                           |               |
+|       | @buddhist_ptaman|                           | @rsoeteman    |
 
 
 ## Members who have been enrolled in to the Community Corner
